@@ -1,0 +1,252 @@
+body{
+    margin: 0;
+    font-family: Lato,Arial, Helvetica, sans-serif;
+}
+.notification-bar{
+    height: 10px;
+    width: 100%;
+    background-color: rgba(0,99,65,1);
+}
+.header-container{
+    width: 100%;
+    height: 142px;
+    background-color: #f7f7f7;
+}
+.logo-header {
+    margin-left: 313px;
+    margin-top: 20px;
+}
+.nav-bar {
+    width: 80%;
+    margin-top: -44px;
+    margin-left: 9%;
+    text-align: center;
+}
+.nav-bar ul li {
+    display: inline;
+    color: white;
+    font: 13.3px Lato,Helvetica,Arial,sans-serif;
+    letter-spacing: 2px;
+}
+.nav-bar ul li a{
+    color: black;
+    text-decoration: none;
+}
+.button-nav {
+    padding: 11px 10px;
+}
+.button-nav:hover{
+    background-color: black;
+    color: white;
+}
+.location {
+    height: 39px;
+    margin-left: 84%;
+    width: 200px;
+    margin-top: -130px;
+}
+.location-png {
+    margin-top: 6px;
+    height: 18px;
+    margin-right: 166px;
+    padding-left: -57px;
+}
+.find-a-store{
+    padding-top: 8px;
+    color: grey;
+    text-decoration: none;
+    font-size: 15px;
+}
+.find {
+    margin-top: -21px;
+    margin-right: 46px;
+}
+.img-first {
+    height: 560px;
+    width: 2136px;
+    background-image: url(media/register3.jpg);
+    margin-top: 28px;
+    margin-left: -180;
+    margin-left: -231px;
+}
+.second-img {
+    height: 706px;
+    background-position: center;
+    background-color: #012d1e;
+    width: 100%;
+    background-image: url(media/monsoon_delights_web_640x900.jpg);
+    background-repeat: no-repeat;
+}
+.third-img {
+    height: 500px;
+    background-position: center;
+    background-color: #012d1e;
+    width: 100%;
+    background-image: url('media/tropical_favourite_web_2400X560.jpg');
+    background-repeat: no-repeat;
+}
+.scoop-img {
+    height: 560px;
+    width: 2136px;
+    background-image: url(media/scoope-banner4\ \(1\).png);
+    margin-top: -2px;
+    margin-left: -180;
+    margin-left: -231px;
+}
+.shop-now{
+    height: 564px;
+    width: 100%;
+    background-image: url('media/web_revised_tcm87-72096.jpg');
+}
+.for-details-1{
+    height: 1000px;
+    width: 100%;
+    background-color: white;
+}
+.right-section{
+    width: 50%;
+    height: 50%;
+}
+.left-section{
+    background-color: red;
+    margin: 50%;
+    height: 50%;
+    padding-left: 10px;
+}
+.img-cup-1 {
+    margin-top: 43px;
+    margin-left: 360px;
+}
+.details-1 {
+    margin-top: -231px;
+    width: 564px;
+    margin-left: 63pc;
+    font-size: 16px;
+}
+.para-1{
+    font-family: "Crete Round", Georgia, "Times New Roman", serif;
+    font-weight:400;
+    font-style:italic;
+}
+.img-oportunity{
+    margin-left: 54%;
+    margin-top: 60px;
+}
+.for-details-2 {
+    width: 25%;
+    margin-left: 328px;
+    padding-top: 202px
+}
+.op-details{
+    font-family: "Crete Round", Georgia, "Times New Roman", serif;
+    font-weight:400;
+    font-style:italic;
+ }
+.opp-emp{
+    margin-top: -217px;
+    margin-left: 150%;
+}
+.contact-footer{
+    height: 120px;
+    width: 100%;
+    background-color: #f0f0f0;
+}
+.facebook{
+    height: 32px;
+    margin-top: 48px;
+    margin-left: 320px;
+}
+.twitter{
+    height: 32px;
+    margin-left: 9px;
+}
+.instagram{
+    height: 32px;
+    padding-left: 20px;
+}
+.footer-main{
+    background-color: #f7f7f7;
+    height: 338px;
+    width: 100%;
+}
+.footer-main ul li{
+    list-style-type: none;
+}
+.about {
+    width: 199px;
+    height: 100px;
+    padding-top: 33px;
+    margin-left: 14%;
+    line-height: 234%;
+}
+.about ul li a{
+    text-decoration: none;
+    color: #553935;
+}
+.about ul li a:hover{
+    color: grey;
+    transition: 1s;
+}
+.customer-service{
+    margin-left: 565px;
+    margin-top: -99px;
+}
+.customer-service ul li a{
+    color: #553935;
+    text-decoration: none;
+}
+.customer-service ul li a :hover{
+    color: grey;
+    transition: 1s;
+}
+.quick-links {
+    margin-left: 43%;
+    padding-top: -27px;
+    margin-top: -78px;
+}
+.quick-links ul li a{
+    text-decoration: none;
+    color: #553935;
+}
+.quick-links ul li a:hover{
+    color: grey;
+    transition: 1s;
+}
+.img-starbucks {
+    height: 160px;
+    margin-top: -84px;
+    width: 10%;
+    margin-left: 83%;
+    background-size: 16px;
+    background-image: url(media/wordmark_footer_tcm87-397.png);
+    background-repeat: no-repeat;
+}
+.footer-final {
+    width: 32%;
+    height: 20px;
+    margin-top: -130px;
+    margin-left: 273px;
+    font-size: 13px;
+}
+.details-last ul li{
+    display: inline;
+}
+.details-last ul li a{
+    color: #553935;
+    text-decoration: none;
+}
+.details-last ul li a :hover{
+    transition: 1s;
+    color: grey;
+
+}
+.seperator{
+    display: inline;
+    color: grey;
+}
+.terms-of-use {
+    color: grey;
+    margin-top: 20px;
+    font-size: 10px;
+    margin-left: 315px;
+}
